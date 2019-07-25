@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563725254044.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3735371103",
+    "id" : "734BC407",
+    "lastKnownWriteTime" : 1564026402,
+    "last_content_update" : 1564026402841,
+    "path" : "C:/Users/pacif/Desktop/Project Data Final/Database/tentativeFinalScript.R",
+    "project_path" : "tentativeFinalScript.R",
+    "properties" : {
+        "cursorPosition" : "35,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

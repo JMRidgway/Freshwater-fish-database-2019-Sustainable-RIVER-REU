@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563727596062.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3049100436",
+    "id" : "2159D0E1",
+    "lastKnownWriteTime" : 1563727247,
+    "last_content_update" : 1563727247,
+    "path" : "C:/Users/pacif/Desktop/Project Data Final/Database/scriptLearning.R",
+    "project_path" : "scriptLearning.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

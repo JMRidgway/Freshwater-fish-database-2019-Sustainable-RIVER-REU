@@ -1,0 +1,21 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 12,
+                "editor_state" : 2,
+                "function_name" : "fishTidy",
+                "function_steps" : "",
+                "id" : 0,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 12,
+                "needs_updated_steps" : false,
+                "package_name" : "",
+                "path" : "C:/Users/pacif/Desktop/Project Data/Database/script.R",
+                "state" : 2,
+                "type" : 0
+            }
+        ]
+    }
+}

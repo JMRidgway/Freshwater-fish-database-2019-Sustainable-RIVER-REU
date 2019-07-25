@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563855667351.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B8D0DA02",
+    "lastKnownWriteTime" : 740091525859394901,
+    "last_content_update" : 1563855667351,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C36BF85E",
+        "caption" : "tidydata",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tidydata&cache_key=C36BF85E",
+        "displayedObservations" : 14572,
+        "environment" : "",
+        "expression" : "tidydata",
+        "object" : "tidydata",
+        "preview" : 0,
+        "totalObservations" : 14572,
+        "variables" : 22
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
